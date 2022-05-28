@@ -27,7 +27,7 @@ export default function Navbar(): ReactElement {
   return (
     <Flex
       sx={{
-        backgroundColor: "#F1EEE9",
+        backgroundColor: "rgba(0, 0, 0, 0.25)",
         width: "100%",
         height: "10rem",
         justifyContent: "space-between",
